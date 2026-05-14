@@ -31,3 +31,6 @@ Thumbs.db
 .pytest_cache/
 .coverage
 htmlcov/
+
+# Internal briefs (not for client repo)
+FRONTEND_BRIEF.md
